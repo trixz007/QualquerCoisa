@@ -1,0 +1,16 @@
+.navbar{
+    background-color: pink;
+}
+
+.botao{
+    transition: 0.3s;
+}
+
+.botao:hover{
+    background-color: pink;
+    color:black;
+}
+
+.cor-tabela{
+    background-color: pink;
+}
